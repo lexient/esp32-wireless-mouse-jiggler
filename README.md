@@ -5,10 +5,6 @@
 Mouse jiggler, mouse wiggler, mouse mover, many terms for the same thing.
 This connects to your device and simulates activity so you can make a coffee without getting your pay docked.
 
-## Why I made this
-
-For a mate (seriously — I'm self employed).
-
 ## Features
 
 I'm not an expert in Endpoint, but I implemented some detection counter-measures:
